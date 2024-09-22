@@ -1,1 +1,1 @@
-ddns.shulng.us.kg#TLS
+shulng.us.kg#TLS
