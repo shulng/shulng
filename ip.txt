@@ -1,4 +1,5 @@
 pages.dev
 pages.cloudflare.com
+workers.cloudflare.com
 shulng.us.kg
 cf.090227.xyz
