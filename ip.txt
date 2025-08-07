@@ -1,1 +1,3 @@
 pages.dev
+pages.cloudflare.com
+workers.cloudflare.com
