@@ -1,2 +1,2 @@
-pages.cloudflare.com
-workers.cloudflare.com
+pages.dev
+workers.dev
